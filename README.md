@@ -5,6 +5,7 @@ Application console simple pour gérer des tâches quotidiennes.
 ## Fonctionnalités
 - Ajouter une tâche
 - Afficher les tâches
+- Rechercher une tâche par mot-clé
 - Quitter
 
 ## Exécution
